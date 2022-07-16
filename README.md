@@ -1,4 +1,3 @@
-### Hi there 👋
 ## 초라하지만 점점 채워가기!
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=DongjunKim&fontSize=90)
@@ -8,7 +7,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=red">
 
 
-# Link
+#  Link
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/cjfal2)](https://www.facebook.com/cjfal2)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-yellow?style=flat-square&logo=github&link=https://cjfal.github.io/dj/)](https://cjfal.github.io/dj/)
