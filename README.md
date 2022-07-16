@@ -12,22 +12,15 @@
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/dongjun318@naver.com)](https://www.facebook.com/dongjun318@naver.com)
 
 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-white?style=flat-square&logo=github&link=https://cjfal.github.io/dj/)](https://cjfal.github.io/dj/)
+
+[![Github Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://https://github.com/cjfal)](https://github.com/cjfal)
 
 
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjfal&layout=compact&theme=solarized-light&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
