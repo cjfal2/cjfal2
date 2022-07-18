@@ -2,13 +2,15 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=DongjunKim&fontSize=90)
 
+
+# ⚒ Tech Stack
 <div align="center">
-# ⚒ Tech Stack 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=red">
 </div>
 
-<div align="center">
+
 # 🗺 Link
+<div align="center">
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/cjfal2)](https://www.facebook.com/cjfal2)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-yellow?style=flat-square&logo=github&link=https://cjfal.github.io/dj/)](https://cjfal.github.io/dj/)
@@ -18,13 +20,13 @@
 
 
 ---
-<div align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjfal2&layout=compact&theme=solarized-light&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 ---
-<div align="center">
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcjfal2&count_bg=%23E2E300&title_bg=%23454545&icon=waze.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
+
 
 
 
