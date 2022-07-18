@@ -14,7 +14,7 @@
 
 <a href="mailto:dongjun9636@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
-<a href="mailto:cjfal2@kakao.com"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/></a>
+<a href="mailto:cjfal2@kakao.com"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakao&logoColor=black"/></a>
 
 
 
