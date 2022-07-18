@@ -3,15 +3,22 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=DongjunKim&fontSize=90)
 
 
-# ⚒ Tech Stack
+# ⚒  Language
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=red">
 
-
-
-# 🗺 Link
-
+# 📞 Contact
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/cjfal2)](https://www.facebook.com/cjfal2)
+
+<a href="mailto:dongjun318@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+
+<a href="mailto:dongjun9636@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+
+<a href="mailto:cjfal2@kakao.com"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/></a>
+
+
+
+# 🗺 Page
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-yellow?style=flat-square&logo=github&link=https://cjfal.github.io/dj/)](https://cjfal.github.io/dj/)
 
