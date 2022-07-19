@@ -34,7 +34,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcjfal2&count_bg=%23E2E300&title_bg=%23454545&icon=waze.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+---
 
+![cjfal2's github stats](https://github-readme-stats.vercel.app/api?username=cjfal2&show_icons=true)
 
 
 
