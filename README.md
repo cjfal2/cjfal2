@@ -20,9 +20,9 @@
 
 # 🗺 Page
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-yellow?style=flat-square&logo=github&link=https://cjfal.github.io/dj/)](https://cjfal.github.io/dj/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-yellow?style=flat-square&logo=github&link=https://cjfal2.github.io/dj/)](https://cjfal2.github.io/dj/)
 
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/cjfal)](https://github.com/cjfal)
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/cjfal2)](https://github.com/cjfal2)
 
 
 
