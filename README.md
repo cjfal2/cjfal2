@@ -28,8 +28,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjfal2)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjfal2&layout=compact&theme=solarized-light&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ![cjfal2's github stats](https://github-readme-stats.vercel.app/api?username=cjfal2&show_icons=true)
 
