@@ -1,9 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=DongjunKim&fontSize=90)
 
 
-# ⚒  Language
+# ⚒  Stack
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=red">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=black">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=black">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=red">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=red">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=red">
+노션
+장고
+SQLite
+HTML5
+CSS
+BOOTSTRAP
+JavaScript
 
 # 📞 Contact
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/cjfal2)](https://www.facebook.com/cjfal2)
@@ -25,7 +37,8 @@
 
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjfal2)](https://github.com/anuraghazra/github-readme-stats) ![cjfal2's github stats](https://github-readme-stats.vercel.app/api?username=cjfal2&show_icons=true) [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjfal2)](https://solved.ac/cjfal2) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjfal2)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjfal2)](https://solved.ac/cjfal2) ![cjfal2's github stats](https://github-readme-stats.vercel.app/api?username=cjfal2&show_icons=true)
 
 ---
 
