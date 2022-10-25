@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Django-21360d?style=for-the-badge&logo=Django&logoColor=white">
 <img src="https://img.shields.io/badge/SQLite-F0F8FF?style=for-the-badge&logo=SQLite&logoColor=#003B57">
 <img src="https://img.shields.io/badge/HTML5-c2c6b3?style=for-the-badge&logo=HTML5&logoColor=red">
-<img src="https://img.shields.io/badge/CSS-3776AB?style=for-the-badge&logo=CSS&logoColor=red">
+<img src="https://img.shields.io/badge/CSS3-3776AB?style=for-the-badge&logo=CSS&logoColor=red">
 <img src="https://img.shields.io/badge/BOOTSTRAP-3776AB?style=for-the-badge&logo=BOOTSTRAP&logoColor=red">
 <img src="https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=JavaScript&logoColor=red">
 
