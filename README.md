@@ -4,8 +4,8 @@
 # ⚒  Stack
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=red">
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=000000">
-<img src="https://img.shields.io/badge/Django-21360d?style=for-the-badge&logo=Django&logoColor=21360d">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=F0F8FF">
+<img src="https://img.shields.io/badge/Django-21360d?style=for-the-badge&logo=Django&logoColor=F0F8FF">
 <img src="https://img.shields.io/badge/SQLite-skyblue?style=for-the-badge&logo=SQLite&logoColor=F0F8FF">
 <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=HTML5&logoColor=c2c6b3">
 <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=F0F8FF">
