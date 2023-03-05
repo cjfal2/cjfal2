@@ -3,7 +3,7 @@
 
 # ⚒  Stack
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=red"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=F0F8FF"> <img src="https://img.shields.io/badge/Django-21360d?style=for-the-badge&logo=Django&logoColor=F0F8FF"> <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=HTML5&logoColor=c2c6b3"> <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=F0F8FF"> <img src="https://img.shields.io/badge/BOOTSTRAP-purple?style=for-the-badge&logo=BOOTSTRAP&logoColor=F0F8FF"> <img src="https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=JavaScript&logoColor=F0F8FF"> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/TailwindCss-06B6D4?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=red"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=F0F8FF"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=F0F8FF"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=c2c6b3"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=F0F8FF"> <img src="https://img.shields.io/badge/BOOTSTRAP-purple?style=for-the-badge&logo=BOOTSTRAP&logoColor=F0F8FF"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=F0F8FF"> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/TailwindCss-06B6D4?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 
 
 # 📞 Contact
@@ -13,7 +13,7 @@
 
 # 🗺 Page
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-yellow?style=flat-square&logo=github&link=https://cjfal2.github.io/dj/)](https://cjfal2.github.io/dj/) [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/cjfal2)](https://github.com/cjfal2)
+<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/cjfal2)](https://github.com/cjfal2)
 
 
 
