@@ -13,7 +13,7 @@
 
 # 🗺 Page
 
-<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/cjfal2)](https://github.com/cjfal2)
+[![Tistiory Badge]<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">](https://djtodayido.tistory.com/) [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/cjfal2)](https://github.com/cjfal2)
 
 
 
