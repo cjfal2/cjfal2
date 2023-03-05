@@ -7,7 +7,7 @@
 
 
 # 📞 Contact
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/cjfal2)](https://www.facebook.com/cjfal2) <a href="mailto:dongjun318@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a> <a href="mailto:dongjun9636@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="mailto:cjfal2@kakao.com"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakao&logoColor=black"/></a>
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/cjfal2)](https://www.facebook.com/cjfal2) <a href="mailto:dongjun318@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a> <a href="mailto:dongjun9636@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="mailto:cjfal2@kakao.com"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakao&logoColor=black"/></a> <a href="https://www.instagram.com/dongjun_9636/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 
 
 
 
