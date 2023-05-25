@@ -1,9 +1,30 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=DongjunKim&fontSize=90)
 
+---
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjfal2)](https://solved.ac/cjfal2)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=cjfal2)
+---
 
-# ⚒  Stack
+# ⚒  Stacks
+## 💻 Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=red"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000"> <img src="https://img.shields.io/badge/Dart-02569B?style=for-the-badge&logo=Dart&logoColor=white">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=red"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=F0F8FF"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=F0F8FF"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=c2c6b3"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=F0F8FF"> <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=BOOTSTRAP&logoColor=F0F8FF"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000"> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/TailwindCss-06B6D4?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"> 
+## 📺 Framework / Library
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=F0F8FF">
+
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"> 
+
+<img src="https://img.shields.io/badge/TailwindCss-06B6D4?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"> <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=BOOTSTRAP&logoColor=F0F8FF">
+
+
+## 🙌 Collaborations
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=F0F8FF">
+
+
+## 🌏 ETC
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=c2c6b3"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=F0F8FF">
 
 
 # 📞 Contact
@@ -15,13 +36,8 @@
 
 [<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">](https://djtodayido.tistory.com/) [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">](https://github.com/cjfal2)
 
-
-
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjfal2)](https://github.com/anuraghazra/github-readme-stats) ![cjfal2's github stats](https://github-readme-stats.vercel.app/api?username=cjfal2&show_icons=true) [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjfal2)](https://solved.ac/cjfal2)
-
----
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjfal2)](https://github.com/anuraghazra/github-readme-stats) ![cjfal2's github stats](https://github-readme-stats.vercel.app/api?username=cjfal2&show_icons=true) 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcjfal2&count_bg=%23E2E300&title_bg=%23454545&icon=waze.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
